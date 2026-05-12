@@ -1,4 +1,4 @@
-[![mario coding](https://i.imgur.com/1ZvVkDc.gif)]
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudranil-dutta17&label=Profile%20views&color=0e75b6&style=flat" alt="rudranil-dutta17" /> </p>
 

@@ -9,10 +9,8 @@
 
 Email Me 👉 ✉️ **rudranil2005dutta@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** 
-- 🌱 **I’m currently learning:** 
-- 👯 **I’m looking to collaborate on:** 
-- 🤔 **I’m looking for help with:** 
+- 🔭 **I’m currently working on:** Social Media Marketing Agency
+- 🌱 **I’m currently learning:** MERN
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** rudranil2005dutta@gmail.com
 - 😄 **Pronouns:** NIL
@@ -22,7 +20,7 @@ Email Me 👉 ✉️ **rudranil2005dutta@gmail.com** For Collaboration/Project o
 ![](https://github-profile-trophy.vercel.app/?username=RUDRANIL-DUTTA17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rudranildutta.) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rudranil.dutta.2025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudranil.dutta17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudranil-dutta-17-) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@REDOLIN-YT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudranil2005dutta@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rudranildutta.) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rudranil.dutta.2025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudranil.dutta17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudranil-dutta-17-) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@redolinnn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudranil2005dutta@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
@@ -36,11 +34,6 @@ Email Me 👉 ✉️ **rudranil2005dutta@gmail.com** For Collaboration/Project o
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=RUDRANIL-DUTTA17&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=RUDRANIL-DUTTA17&theme=dark&hide_border=false" /><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUDRANIL-DUTTA17&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-    </td>
    <td>
       <img src="https://raw.githubusercontent.com/gist/siddharth151199/14682974567534e7d396f6e7fa596696/raw/50cc1628f8918648b01d095dc027b9f81f0cba48/giphy.gif" width="400"/>
     </td>

@@ -40,8 +40,8 @@ Email Me 👉 ✉️ **rudranil2005dutta@gmail.com** For Collaboration/Project o
   </tr>
 </table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <!--## 🏆 GitHub Achievements  
 
@@ -50,7 +50,7 @@ Email Me 👉 ✉️ **rudranil2005dutta@gmail.com** For Collaboration/Project o
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw"/>
 </p>
 -->
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo
 
 <table>
   <tr>
@@ -61,7 +61,7 @@ Email Me 👉 ✉️ **rudranil2005dutta@gmail.com** For Collaboration/Project o
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif">
  </td>
   </tr>
-</table>
+</table> -->
 <!-- visit count -->
 
 ---

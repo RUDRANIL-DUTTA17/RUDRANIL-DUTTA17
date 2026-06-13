@@ -43,13 +43,13 @@ Email Me 👉 ✉️ **rudranil2005dutta@gmail.com** For Collaboration/Project o
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🏆 GitHub Achievements  
+<!--## 🏆 GitHub Achievements  
 
 <p align="left">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark"/>
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw"/>
 </p>
-
+-->
 ### 🔝 Top Contributed Repo
 
 <table>
